@@ -4,6 +4,8 @@ Here you can find files and resources on Network Traffic Classification: Machine
 
 Robert Szmurło
 
+Presentation [CPEE_2024_NTC.pdf](CPEE_2024_NTC.pdf)
+
 Links to colab noteboks:
  * NTC classication statistical Machine Learning: https://colab.research.google.com/drive/1TGEylDziHbTmmf0tYwYOFpad7ZXgd7Wk?usp=sharing
  * ET-BERT (Transformer based) for NTC demo: https://colab.research.google.com/drive/1OgOz7hfeCZ-ZuO1bFWS_kgSy7ZRie0-O?usp=sharing
